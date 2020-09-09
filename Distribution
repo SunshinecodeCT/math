@@ -1,0 +1,4 @@
+https://www.boost.org/doc/libs/1_74_0/libs/math/doc/html/math_toolkit/dist_ref/dists/inverse_gaussian_dist.html
+"The distribution is also called 'normal-inverse Gaussian distribution'..." This is a wrong description. Normal-inverse Gaussian (NIG) is different from inverse gaussian. NIG a mean-variance mixture of normal distribution and inverse Gaussion distribution.
+See NIG at https://en.wikipedia.org/wiki/Normal-inverse_Gaussian_distribution
+See inverse gaussian at https://en.wikipedia.org/wiki/Inverse_Gaussian_distribution
